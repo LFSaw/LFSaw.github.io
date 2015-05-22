@@ -1,14 +1,13 @@
 # Site settings
-title: Your awesome title
+title: Modality
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The Modality Toolkit simplifies the creation of individual electronic instruments using different controllers by introducing a common code interface. 
+  This allows for a uniform approach to HID, MIDI, OSC and GUI-based approaches, as well as switching of functionality, even at runtime.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://modality.bek.no" # the base hostname & protocol for your site
+twitter_username: ModalityTeam
+github_username:  ModalityTeam
 
 # Build settings
 markdown: kramdown
